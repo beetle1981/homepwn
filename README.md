@@ -20,3 +20,6 @@ After soldering homebreakout, verify that the POGO pins do not touch each other.
 Jailbreaking your Homepod is not supported, and these design files were made from reverse engineering. While they should not cause physical damage to your Homepod assuming they are soldered correctly, you are ultimately responsible for any damage you cause.
 
 Note that no IPSWs are available for the Homepod, and if the Jailbreak fails you will be stuck with a $250 paperweight. Proceed with caution.
+
+#processor: apple A8
+#Flash: Hynix H2JTDG8UD1CMR/Toshiba THGBX4G7D2LLDYC ...
