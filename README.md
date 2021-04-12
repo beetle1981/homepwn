@@ -21,5 +21,9 @@ Jailbreaking your Homepod is not supported, and these design files were made fro
 
 Note that no IPSWs are available for the Homepod, and if the Jailbreak fails you will be stuck with a $250 paperweight. Proceed with caution.
 
-# Processor: apple A8
-# Flash: Hynix H2JTDG8UD1CMR/Toshiba THGBX4G7D2LLDYC ...
+# Processor
+
+apple A8
+# Flash
+
+Hynix H2JTDG8UD1CMR/Toshiba THGBX4G7D2LLDYC ...
